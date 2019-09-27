@@ -23,12 +23,18 @@ yarn start
 yarn test
 ```
 
+## Config
+
+Please refer [config.js](./config.js);
+
 ## Author
 
 👤 **Douglas Chen**
 
-* Twitter: [@cdswyda](https://twitter.com/cdswyda)
 * Github: [@cdswyda](https://github.com/cdswyda)
+* SegmentFault: [@cdswyda](https://segmentfault.com/u/cdswyda)
+* Juejin: [@cdswyda](https://juejin.im/user/59b87dc36fb9a00a3d133480)
+* Twitter: [@cdswyda](https://twitter.com/cdswyda)
 
 ## Show your support
 
